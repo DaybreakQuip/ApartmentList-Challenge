@@ -27,4 +27,6 @@ The original implementation file was what I originally coded, but was less effic
 
 The final implementation uses a boolean to check for double counting, and is overall more efficient. 
 
+Extra: JustForFun.py contains code for Damerau–Levenshtein distance search. It's related to Levenshtein Distance and is used to test my understanding of the overall code for this challenge. This code does not impact challenge.
+
 ---
